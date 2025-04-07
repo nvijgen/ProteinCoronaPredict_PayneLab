@@ -1,0 +1,11 @@
+,Feature,F-Value,P-Value
+0,Protein Abundance in FBS,225.2883076318287,4.5304069868711086e-49
+8,% Exposed Amino Acid M / Total Exposed,159.03374015890097,1.604395153464317e-35
+1,% Amino Acid - Phenylalanine (F),128.02914090396598,4.564941666145685e-29
+10,% Exposed Amino Acid S / Total Exposed,118.25979366566837,5.1196599614789664e-27
+2,% Amino Acid - Leucine (L),115.58266860348483,1.872253792206045e-26
+12,% Secondary Structure - Sheet,62.381893001834506,4.003042309797206e-15
+11,% Exposed Amino Acid Y / Total Exposed,61.369658770798424,6.6205710967537806e-15
+5,% Exposed Polar Amino Acids / Total Amino Acids,37.36455735469753,1.1134505997174747e-09
+6,% Exposed Polar Amino Acids / Total Exposed,30.213621922218927,4.2118250782646724e-08
+4,% Exposed Nonpolar Amino Acids / Total Exposed,30.213621922207956,4.2118250782876714e-08
