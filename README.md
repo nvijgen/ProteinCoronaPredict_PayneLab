@@ -1,3 +1,8 @@
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/621d1b77-6b45-4e6e-86f3-21c345b0932b" />
+
+DOI for GitHub repository: DOI: 10.5281/zenodo.16762261
+DOI for RSC Nanoscale Advances manuscript (first published online on July 29, 2025):  10.1039/d5na00425j
+
 # ProteinCoronaPredict_PayneLab
  Predicting Protein Abundance through NP and Protein Features and Experimental Conditions.
 
